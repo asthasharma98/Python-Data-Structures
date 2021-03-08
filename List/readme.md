@@ -1,10 +1,10 @@
-### List
+## List
 
 The IPython notebook contains the basic concepts of `List` in python like how to create list, how to access the elements of the list and how to modify list.
 
 A **list** in python is a one-dimensional, Mutable and Ordered collection of elements. A list is defined using square brackets [], and the elements of the list are separated by commas.
 
-Python has a set of built-in methods that you can use on lists.
+ *set of built-in methods in python that we can apply lists* 
 
 
 |  **Method**     |   **Description**                                                    |
