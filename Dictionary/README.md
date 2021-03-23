@@ -4,7 +4,7 @@ This IPython notebook contains the basic concepts of `Dictionary` in python like
 
 **Dictionary** in python is Mutable and Unordered colletion of data values which is used to store data values in `{key:value}` pairs.
 
-*set of built-in methods in python that we can apply dictionary*
+*set of built-in methods in python that we can apply on dictionary*
 
 |  **Method**     |   **Description**                                                    |
 | --------------  | ---------------------------------------------------------------------|
